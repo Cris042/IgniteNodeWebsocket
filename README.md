@@ -1,6 +1,9 @@
 <h1 align="center">
    Websocket
 </h1>
+<p align="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
+<hr>
+
 
 
 ## Tecnologias 🚀 
